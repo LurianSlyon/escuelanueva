@@ -1,13 +1,1 @@
-pe\com\apiescuealanueva\EscuelaNueva\repository\DistritoRepository.class
-pe\com\apiescuealanueva\EscuelaNueva\entity\ApoderadoEntity$ApoderadoEntityBuilder.class
-pe\com\apiescuealanueva\EscuelaNueva\entity\ParentescoEntity$ParentescoEntityBuilder.class
-pe\com\apiescuealanueva\EscuelaNueva\service\ParentescoService.class
-pe\com\apiescuealanueva\EscuelaNueva\repository\ApoderadoRepository.class
-pe\com\apiescuealanueva\EscuelaNueva\entity\DistritoEntity$DistritoEntityBuilder.class
-pe\com\apiescuealanueva\EscuelaNueva\entity\DistritoEntity.class
-pe\com\apiescuealanueva\EscuelaNueva\service\DistritoService.class
-pe\com\apiescuealanueva\EscuelaNueva\entity\ApoderadoEntity.class
 pe\com\apiescuealanueva\EscuelaNueva\EscuelaNuevaApplication.class
-pe\com\apiescuealanueva\EscuelaNueva\repository\ParentescoRepository.class
-pe\com\apiescuealanueva\EscuelaNueva\entity\ParentescoEntity.class
-pe\com\apiescuealanueva\EscuelaNueva\service\ApoderadoService.class

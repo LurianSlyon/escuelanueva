@@ -1,16 +1,11 @@
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\DistritoServiceImpl.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\ParentescoServiceImpl.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\repository\ApoderadoRepository.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\EscuelaNuevaApplication.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\repository\DistritoRepository.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\entity\DistritoEntity.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\ApoderadoService.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\controllers\ApoderadoController.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\entity\ApoderadoEntity.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\ParentescoService.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\repository\ParentescoRepository.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\ApoderadoServiceImpl.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\entity\ParentescoEntity.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\DistritoService.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\controllers\ParentescoController.java
-C:\Users\Lurian\Documents\Escritorio\Clases C5\Servicios arientada a objeto\Proyect\EscuelaNueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\controllers\DistritoController.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\UsuarioService.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\UsuarioServiceImpl.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\controllers\UsuarioController.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\repository\ProgramacionRepository.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\entity\UsuarioEntity.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\entity\ProgramacionesEntity.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\EscuelaNuevaApplication.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\controllers\ProgramacionController.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\ProgramacionService.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\service\ProgramacionServiceImpl.java
+C:\Users\Lurian\Documents\Escritorio\Clases C5\ApiEscuelaNueva\escuelanueva\src\main\java\pe\com\apiescuealanueva\EscuelaNueva\repository\UsuarioRepository.java
