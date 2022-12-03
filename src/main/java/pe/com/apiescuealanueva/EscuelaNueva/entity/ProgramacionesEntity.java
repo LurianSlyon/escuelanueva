@@ -33,11 +33,9 @@ public class ProgramacionesEntity implements Serializable {
     @Column(name="nombreeve")
     private String nombreev;
     @Column(name="fecha")
-    @Temporal(javax.persistence.TemporalType.DATE)
-    private Date fecha;
+    private String fecha;
     @Column(name="hora")
-    @Temporal(javax.persistence.TemporalType.TIME)
-    private Date hora;
+    private String hora;
     @Column(name="descripcion")
     private String descripcionp;
     @Column(name="estado")
